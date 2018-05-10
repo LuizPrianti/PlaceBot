@@ -9,7 +9,7 @@ usuário com o Bot e será adicionado uma nova funcionalidade que irá traçar u
 # Inicia a conversa com um \start e o Bot perguntará o que procura.
 <img src="https://github.com/LuizPrianti/PlaceBot/blob/master/Screenshots/Screenshot_2018-05-10-15-57-21.png" width="300px">
 
-# O Bot irá pedir sua localização.
+# Após escolher o local, o Bot irá pedir sua localização.
 <img src="https://github.com/LuizPrianti/PlaceBot/blob/master/Screenshots/Screenshot_2018-05-10-15-57-32.png" width="300px">
 
 # E entao, depois você envia a localização.
