@@ -10,9 +10,9 @@ usuário com o Bot e será adicionado uma nova funcionalidade que irá traçar u
 <img src="https://github.com/LuizPrianti/PlaceBot/blob/master/Screenshots/Screenshot_2018-05-10-15-57-21.png" width="300px">
 
 # Após escolher o local, o Bot irá pedir sua localização.
-<img src="https://github.com/LuizPrianti/PlaceBot/blob/master/Screenshots/Screenshot_2018-05-10-15-57-32.png" width="300px">
+<img src="https://github.com/LuizPrianti/PlaceBot/blob/master/Screenshots/Screenshot_2018-05-10-16-25-49.png" width="300px">
 
-# E entao, depois você envia a localização.
+# Depois você envia a localização.
 <img src="https://github.com/LuizPrianti/PlaceBot/blob/master/Screenshots/Screenshot_2018-05-10-15-58-28.png" width="300px">
 
 # Ele retornará o nome e o endereço dos locais que você procura próximos a você.
